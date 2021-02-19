@@ -4,6 +4,6 @@
 
 ### requirements
 
-- [] NodeJS
+- NodeJS
 
 ##### pssst (the main file is in the src folder`)
